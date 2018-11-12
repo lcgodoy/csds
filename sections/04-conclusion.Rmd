@@ -9,10 +9,8 @@ class: bg-main1 split-30 hide-slide-number
 
 ---
 
-class: .bg-main1 middle center inverse
+class: .bg-main5 middle center
 
-.text-hl[
 # [`r icon::fa_globe()`](https:://lcgodoy.github.io) lcgodoy.github.io
 # `r icon::fa_envelope_open()` lucasdac.godoy@gmail.com
 # [`r icon::fa_github()`](https:://github.com/lcgodoy) github.com/lcgodoy
-]

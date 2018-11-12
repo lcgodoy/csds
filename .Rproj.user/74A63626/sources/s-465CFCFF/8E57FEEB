@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541994727633.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8E57FEEB",
+    "lastKnownWriteTime" : 1541994476,
+    "last_content_update" : 1541994476,
+    "path" : "~/Documents/github/csds/sections/03-applic.Rmd",
+    "project_path" : "sections/03-applic.Rmd",
+    "properties" : {
+        "cursorPosition" : "29,3",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

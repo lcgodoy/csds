@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1541994736301.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7CE0EE2B",
+    "lastKnownWriteTime" : 1541989896,
+    "last_content_update" : 1541989896,
+    "path" : "~/Documents/github/csds/sections/02-vdl.Rmd",
+    "project_path" : "sections/02-vdl.Rmd",
+    "properties" : {
+        "cursorPosition" : "34,0",
+        "scrollLine" : "134"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
