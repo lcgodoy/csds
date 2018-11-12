@@ -19,7 +19,7 @@
     --text-color4: white;
     --text-color5: white;
     --text-opacity: black;
-    --link-color: #FF9033;
+    --link-color: #F4F442;
     --alert-color: #CF3C18;
     --text-alert: white;
     --code-background: transparent;

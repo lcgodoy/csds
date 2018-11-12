@@ -7,15 +7,15 @@
     "folds" : "",
     "hash" : "0",
     "id" : "5E11DB44",
-    "lastKnownWriteTime" : 1541994692,
-    "last_content_update" : 1541994692,
+    "lastKnownWriteTime" : 1542032971,
+    "last_content_update" : 1542032971783,
     "path" : "~/Documents/github/csds/sections/04-conclusion.Rmd",
     "project_path" : "sections/04-conclusion.Rmd",
     "properties" : {
-        "cursorPosition" : "11,16",
+        "cursorPosition" : "11,47",
         "scrollLine" : "0"
     },
-    "relative_order" : 4,
+    "relative_order" : 5,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "r_markdown"

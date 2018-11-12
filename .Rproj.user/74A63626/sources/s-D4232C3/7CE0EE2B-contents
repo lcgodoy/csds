@@ -114,7 +114,7 @@ count: false
 
 class: center middle bg-main2
 
-# Voronoi Tesselation
+# Voronoi Tessellation
 
 ![](img/vor_ex.gif)
 
@@ -192,7 +192,7 @@ class: bg-main3 middle
 * $Var[X^*_{k, 1}] = Var[\{ X_{j, 1} : Y_k \subset Z_j \}]$
 * Does not take advantage of all available data;
 * More variability;
-* Does inherit the autocovariance structure from data;
+* Does not inherit the autocovariance structure from data;
 
 ### Voronoi Data Linkage
 
