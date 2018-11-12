@@ -27,7 +27,7 @@ pts1 + theme(panel.background = element_rect(fill = 'white', color = 'white'),
 ]]
 
 .column[.content.vmiddle.center[
-$$Y = \{Y_1, ..., Y_{n_y} \}$$, where $Y_i \in A \forall i$.
+### $$Y = \{Y_1, ..., Y_{n_y} \}$$, where $Y_i \in A \forall i$.
 ]]
 ]
 
@@ -46,12 +46,12 @@ sq1 + theme(panel.background = element_rect(fill = 'white', color = 'white'),
 
 .column[
 .content.vmiddle.center[
-$Z = \{Z_1, ..., Z_{n_z} \}$, where $\cup_{i = 1}^{n_z} Z_i = A$.
+### $Z = \{Z_1, ..., Z_{n_z} \}$, where $\cup_{i = 1}^{n_z} Z_i = A$.
 
 <br>
 
-$X_k = \{X_{k,1}, ..., X_{k,p} \}$ is a vector of continous variables belonging
-to $Z_k$.
+### $X_k = \{X_{k,1}, ..., X_{k,p} \}$ is a vector of continous variables belonging
+### to $Z_k$.
 ]]]
 
 ---

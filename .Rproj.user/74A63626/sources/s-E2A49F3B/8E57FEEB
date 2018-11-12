@@ -5,7 +5,7 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1065683861",
+    "hash" : "0",
     "id" : "8E57FEEB",
     "lastKnownWriteTime" : 1542032621,
     "last_content_update" : 1542032621333,
@@ -13,7 +13,7 @@
     "project_path" : "sections/03-applic.Rmd",
     "properties" : {
         "cursorPosition" : "32,49",
-        "scrollLine" : "6"
+        "scrollLine" : "0"
     },
     "relative_order" : 4,
     "source_on_save" : false,

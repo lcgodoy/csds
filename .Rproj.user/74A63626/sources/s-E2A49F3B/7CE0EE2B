@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "7CE0EE2B",
-    "lastKnownWriteTime" : 1542031839,
-    "last_content_update" : 1542031839137,
+    "lastKnownWriteTime" : 1542042360,
+    "last_content_update" : 1542042360080,
     "path" : "~/Documents/github/csds/sections/02-vdl.Rmd",
     "project_path" : "sections/02-vdl.Rmd",
     "properties" : {
-        "cursorPosition" : "194,11",
-        "scrollLine" : "0"
+        "cursorPosition" : "53,4",
+        "scrollLine" : "30"
     },
     "relative_order" : 3,
     "source_on_save" : false,
